@@ -6,8 +6,7 @@ rtreego
 A library for efficiently storing and querying spatial data
 in the Go programming language.
 
-Forked from github.com/dhconnelly/rtreego to specialize for 3 dimensions
-and tune for fewer memory allocations.
+Forked from github.com/patrick-higgins/rtreego to specialize for ~~3~~2 dimensions
 
 
 About
